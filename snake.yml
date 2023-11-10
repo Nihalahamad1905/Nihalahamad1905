@@ -14,14 +14,14 @@ jobs:
   generate:
     permissions:
       contents: write
-    runs-on: ubuntu-latest
+    runs-on: windows
     timeout-minutes: 5
 
     steps:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.Nihalahamad1905 }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
 

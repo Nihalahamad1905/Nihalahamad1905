@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: generate snake.exe
-        uses: Platane/snk@v3
+        uses: Platane/snk@v2.1.0
         with:
           output: exe
           github_user_name: ${{ github.repository_owner }}

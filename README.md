@@ -1,61 +1,47 @@
-<div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Nihalahamad Shaikh - Web Developer"/>
-</div>
+<h2 align="left">Hi 👋! My name is Nihalahamad Shaikh and I'm a Web Developer.</h2>
+
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nihalahamad1905&label=Profile%20Views&color=8957e5&style=for-the-badge" alt="profile views"/>
-  <a href="https://github.com/Nihalahamad1905?tab=followers"><img src="https://img.shields.io/github/followers/Nihalahamad1905?style=for-the-badge&logo=github&color=8957e5" alt="followers"/></a>
-  <a href="https://github.com/Nihalahamad1905?tab=repositories"><img src="https://img.shields.io/github/stars/Nihalahamad1905?style=for-the-badge&logo=github&color=8957e5&label=Stars" alt="stars"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Nihalahamad1905&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=Nihalahamad1905&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />&emsp;&emsp;&emsp;
+<!--![](https://github-readme-stats.vercel.app/api?username=Nihalahamad1905&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nihalahamad1905&theme=dark&hide_border=false)-
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalahamad1905&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nihalahamad1905&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />-->
 </div>
 
-<br>
+###
+<hr>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+## 💻 Tech Stack :
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)&nbsp; ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)&nbsp; ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp; ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)&nbsp; ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)&nbsp; ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp; ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)&nbsp; ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)&nbsp; ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-<div align="center"><img src="assets/h-about.svg" width="100%" alt="About Me"/></div>
 
-<div align="center">
-  <img src="assets/about.svg" width="100%" alt="About me terminal"/>
+<hr>
+
+
+## 🌐 Social Media :
+
+<div align="left">
+  <a href="https://www.youtube.com/@TechWarriorsAlive" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>&emsp;
+  <a href="https://instagram.com/nihal.shaikh.1905?utm_source=qr&igshid=MTZhODQ1eHA0YTI3Ng==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>&emsp;
+  <a href="shaikhnihal1905@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>&emsp;
+  <a href="https://www.linkedin.com/in/nihalahamad-shaikh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3dKyYcWTTEGDBeOFJnu5sQ%3D%3D" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
+<hr>
 
-<div align="center"><img src="assets/h-stack.svg" width="100%" alt="Tech Stack"/></div>
 
-<div align="center">
-  <img src="assets/skills.svg" width="100%" alt="Tech stack: HTML, CSS, JavaScript, Bootstrap, Tailwind, PHP, MySQL, Python, C, C++, C#, Figma, Canva, Git"/>
-</div>
+## 🏆 GitHub Trophies :
+![](https://github-profile-trophy.vercel.app/?username=Nihalahamad1905&theme=onedark&no-frame=false&no-bg=true&margin-w=20)
 
-<div align="center"><img src="assets/h-stats.svg" width="100%" alt="GitHub Stats"/></div>
-
-<div align="center">
-  <img src="profile-summary-card-output/dracula/0-profile-details.svg" width="49%" alt="profile details"/>
-  <img src="profile-summary-card-output/dracula/3-stats.svg" width="49%" alt="github stats"/>
-  <br>
-  <img src="profile-summary-card-output/dracula/1-repos-per-language.svg" width="32%" alt="repos per language"/>
-  <img src="profile-summary-card-output/dracula/2-most-commit-language.svg" width="32%" alt="most commit language"/>
-  <img src="profile-summary-card-output/dracula/4-productive-time.svg" width="32%" alt="productive time"/>
-</div>
-
-<div align="center"><img src="assets/h-snake.svg" width="100%" alt="Contribution Snake"/></div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nihalahamad1905/Nihalahamad1905/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nihalahamad1905/Nihalahamad1905/output/github-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Nihalahamad1905/Nihalahamad1905/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<div align="center"><img src="assets/h-connect.svg" width="100%" alt="Connect With Me"/></div>
-
-<div align="center">
-  <a href="https://www.youtube.com/@TechWarriorsAlive" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="38" alt="YouTube"/></a>&emsp;
-  <a href="https://instagram.com/nihal.shaikh.1905" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram"/></a>&emsp;
-  <a href="mailto:shaikhnihal1905@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Gmail"/></a>&emsp;
-  <a href="https://www.linkedin.com/in/nihalahamad-shaikh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn"/></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
-</div>
